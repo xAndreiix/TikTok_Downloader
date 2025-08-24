@@ -64,7 +64,11 @@ The program asks for a TikTok video link, retrieves the video through an API cal
 Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/xAndreiix/TikTok_Downloader.git
+```
+```bash
 cd tiktok_downloader
+```
+```bash
 pip install -r requirements.txt
 ```
 
