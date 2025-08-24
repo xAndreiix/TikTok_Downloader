@@ -79,15 +79,13 @@ Example input:
 
 Enter TikTok video URL: https://www.tiktok.com/@example/video/123456789
 
-The script will download the video and save it as:
-
-tiktok_video_without_watermark.mp4
+The script will download the video and save it as: "tiktok_video_without_watermark.mp4"
 
 CLI Example:
 
 Enter TikTok video URL: https://www.tiktok.com/@example/video/123456789
 
-Download complete: tiktok_video_without_watermark.mp4
+Download complete: "tiktok_video_without_watermark.mp4"
 
 ---
 
