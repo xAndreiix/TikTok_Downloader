@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Table of Contents
-- 🏷️ [Introduction](#introduction)
+- 🏷️ [Project Description](#project-description)
 - ✨ [Features](#features)
 - 🛠️ [Technologies](#technologies)
 - 🗂️ [Project Structure](#project-structure)
@@ -19,7 +19,7 @@
 
 ---
 
-## Introduction
+## Project Description
 A simple Python script to download TikTok videos without watermark, using a public API.
 The program asks for a TikTok video link, retrieves the video through an API call, and saves it locally as tiktok_video_without_watermark.mp4.
 <!-- ## Badges -->
