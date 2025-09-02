@@ -128,7 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE)
 **Author:** 
 Andrei Iliescu
 
-[![Website](https://img.shields.io/badge/Website-PORTFOLIO-gold?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://xandreiix.github.io/Andrei-Iliescu-Portfolio/)
+[![Website](https://img.shields.io/badge/Website-PORTFOLIO-gold?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://andrei-iliescu-portfolio.netlify.app/)
 
 **Acknowledgments:**  
 - Inspired by [@1minutepython](https://www.tiktok.com/@1minutepython) tutorial on TikTok.
