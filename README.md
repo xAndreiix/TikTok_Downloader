@@ -15,7 +15,7 @@
 - 🫱🏻‍🫲🏼 [Contributing](#contributing)
 - 📜 [License](#license)
 - 👨🏻‍💻 [Author](#author--acknowledgments--contact) / 🙏🏻 [Acknowledgments](##author--acknowledgments--contact) / 📩 [Contact](##author--acknowledgments--contact)
-- 💰 [Support Me!](##if-you-want-to-support-me)
+- 💰 [Support Me!](#if-you-want-to-support-me)
 
 ---
 
